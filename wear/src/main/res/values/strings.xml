@@ -1,0 +1,6 @@
+
+<resources>
+  <string name="app_name">Bootcamp_Watch</string>
+  <string name="calories">%1$d calories</string>
+  <string name="starred_meal">Meal Starred!</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/06_Bootcamp_Kotlin_Watch.iml" filepath="$PROJECT_DIR$/.idea/modules/06_Bootcamp_Kotlin_Watch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobile/06_Bootcamp_Kotlin_Watch.mobile.iml" filepath="$PROJECT_DIR$/.idea/modules/mobile/06_Bootcamp_Kotlin_Watch.mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/06_Bootcamp_Kotlin_Watch.shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/06_Bootcamp_Kotlin_Watch.shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wear/06_Bootcamp_Kotlin_Watch.wear.iml" filepath="$PROJECT_DIR$/.idea/modules/wear/06_Bootcamp_Kotlin_Watch.wear.iml" />
+    </modules>
+  </component>
+</project>

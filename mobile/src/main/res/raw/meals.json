@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Spaghetti and Meatballs",
+    "calories": 400,
+    "ingredients": ["Spaghetti", "Basil", "Tomato Sauce", "Meatballs"],
+    "favorited": false
+  },
+  {
+    "title": "Apple Pie",
+    "calories": 700,
+    "ingredients": ["Apples", "Sugar", "Pie Crust, Spices"],
+    "favorited": false
+  },
+  {
+    "title": "Greek Salad",
+    "calories": 200,
+    "ingredients": ["Lettuce", "Tomatoes", "Cucumber", "Onions", "Olives", "Spices"],
+    "favorited": false
+  },
+  {
+    "title": "Shrimp Tacos",
+    "calories": 600,
+    "ingredients": ["Taco Shells", "Shrimp", "Lettuce", "Tomatoes", "Onions", "Salsa", "Cheese"],
+    "favorited": false
+  },
+  {
+    "title": "Red Bean Soup",
+    "calories": 300,
+    "ingredients": ["Red Beans", "Sugar"],
+    "favorited": false
+  }
+]
